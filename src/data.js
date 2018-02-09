@@ -501,7 +501,7 @@ const data = [
     ]
   },
   {
-    'forename': 'Hans-Jörg',
+    'forename': 'Hansjörg',
     'name': 'Müller',
     'additions': [
       {
@@ -551,6 +551,26 @@ const data = [
       {
         'text': 'der Frauen für weniger geeignet für die Politik hält als Männer',
         'src': 'https://www.ndr.de/nachrichten/mecklenburg-vorpommern/AfD-Fraktionschef-Maenner-eher-fuer-Politik-gemacht,afd1516.html'
+      }
+    ]
+  },
+  {
+    'forename': 'Jörg',
+    'name': 'Nobis',
+    'additions': [
+      {
+        'text': 'der den "Schulzzug in den Hochofen fahren" will',
+        'src': 'https://www.ndr.de/nachrichten/schleswig-holstein/Anzeige-gegen-AfD-Fraktionschef-Nobis,nobis130.html'
+      }
+    ]
+  },
+  {
+    'forename': 'Peter',
+    'name': 'Boehringer',
+    'additions': [
+      {
+        'text': 'der die Kanzlerin wegen ihrer Flüchtlingspolitik als "Merkelnutte" bezeichnet',
+        'src': 'http://www.handelsblatt.com/my/politik/deutschland/afd-politiker-peter-boehringer-der-mann-mit-den-zwei-gesichtern/20881140.html'
       }
     ]
   }
